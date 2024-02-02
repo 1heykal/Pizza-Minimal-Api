@@ -30,3 +30,4 @@ E:\Development\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Development\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
 E:\Development\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 E:\Development\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CopyComplete
+E:\Development\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
